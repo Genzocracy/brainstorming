@@ -1,2 +1,2 @@
 # brainstorming
-[Earmarked Taxes]
+[Earmarked Taxes](./earmarked-taxes.md)
