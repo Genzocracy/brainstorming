@@ -57,7 +57,42 @@ The following factors adds points to citizenship status:
     * transportation
     * logistics
     * government operations
+* Any active paid hour of work for any company, where taxes are levied, within the nation confers a 0.001% increase
 
 
 ## Serious Question in Regards to Education
 Does the advent of extremely smart AI change the paradigm around education?
+
+# Citizenship Renunciation
+These are the classificiations for each entity, in regards to citizenship status:
+* Entities who are registered, and hold a non-zero citizenship status
+* Entities who are registered nationally, but continue to hold 0% citizenship status (i.e. newcomers)
+* Entities who remain unregistered and are assumed registered with another country (i.e. the current definition of "illegal")
+* Entities who have either partially or entirely renounced their entire citizenship
+  * This may include consented renunciation or renunciation based on criminality
+  * This may include those that have reregistered with another nation
+* 
+
+Removal:
+* Each year month oversees, outside of national service or political service, drops citizenship status by 1%, and is considered a partial renunciation, with penalty
+* Declaring dual-citizenship will cap maximum citizenship status in the nation to 50%, and is considered a partial renunciation, with penalty
+* Any individual may fully renounce their citizenship, capping their maximum status to 0%, with penalties for renunciation
+* Criminal convictions (not arrests) can partially renounce citizenship status, such that
+  * The only two crimes, which when convicted, can lead to expulsion from the nation are multiple murders and/or terroristic acts
+  * The following convictions of crimes can penalize citizenship status (in addition to imprisonment) by no more than a maximum:
+    * participating in an insurrection removes all of your citizenship status
+    * [psychopathic murder] participating in a deliberate and premeditated killing with no intention of physical defense of self-or-others can remove up to 80% per victim
+    * [emotional and/or impulsive murder] participating in a deliberate killing with no intention of physical defense of self-or-others can remove up to 50% per victim
+    * [neglegent murder] participating in killing by disregard to your activities which are known to unreasonably risk human life can remvoe up to 20% per victim
+    * Violence 
+    * Theft (greater than 20% of the victim's earnings for 40-hour week worked) [can we calculate this back out instead of using hard-limits?] 5%
+    * 
+
+
+# Benefits and Scope of Citizenship
+* Any entity who has registered is entitled a public defender (including for asylum seekers), or if another country permits, can request a public defender from any other country (paid for by that country)
+* Any entity who has denounced their citizenship status, must hire a defender themselves, be allowed a defender from their current country, or represent themselves if they are sovereign
+* Running for office:
+  * Any entity with at least 50% citizenship status may run for and serve on local legislative offices
+  * Any entity with at least 80% citizenship status may run for and serve on legislative offices
+  * Any entity with at least 100% citizenship status may run for and serve as an executive, either in local offices or national offices
