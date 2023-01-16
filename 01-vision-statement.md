@@ -22,18 +22,16 @@ things and people are always moving to *better*, but also doesn't foster the ide
 The nation recognizes governance from the inside-outward, such that as each level increases, it is to a baseline. The foremost level is that of the self:
 1. **Self-governance** - wherein the responsibility to self-govern does not require a caregiver; nor where it causes concession of the self-governance of another, or of the
 collective
-1. **Family-governance** - wherein a family is devoted to proxy-care and investment in various selves; geographically centered on the home
-1. **District-governance** - geographically centered on a small area that may include a schoolcare district, wherein multiple families an association, or even a tribe
+1. **Family governing body** - wherein a family is devoted to proxy-care and investment in various selves; geographically centered on the home
+1. **District-governing body** - geographically centered on a small area that may include a schoolcare district, wherein multiple families an association, or even a tribe
 may occupy and manage the affairs for that area
-1. **County-governance** - geographically over multiple districts, wherein the districts can decide wider things like zoning, property taxes, infrastucture, etc.
-1. **Region-governance** - geographically over multiple counties (often about the size of a typical US state); best continually reevaluated as (economic regions)[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166083]
-1. **Substate-governance** - geographically over multiple regions (often about the size of 10 or so US states); given whereas these substates can willingly chose to move
-between countries
-3. **Country-governance** - geographically over multiple substates (often about the size of the entire United States)
-4. **Continental-governance** - geographically over multiple countries (often about the size of a continent), recognizing that not every country in a continent would
-agree, making this a political entity, not a techtonic entity
-1. **Intercontinental-governance** - an entity made up of multiple continents, possibly almost planet-wide
-1. **Aster-governance** - an entity made up of multiple planets within a star-system. This is a political entity, and not guaranteed to be a single entity for the
+1. **County-governing body** - geographically over multiple districts, wherein the districts can decide wider things like zoning, property taxes, infrastucture, etc.
+1. **Region-governing body** - geographically over multiple counties (often about the size of a typical US state); best continually reevaluated as (economic regions)[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166083]
+1. **Substate-governing body** - geographically over multiple regions (often about the size of 10 or so US states); given whereas these substates can willingly chose to move between countries
+1. **Country-governing body** - geographically over multiple substates (often about the size of the entire United States)
+1. **Continental-governing body** - geographically over multiple countries (often about the size of a continent), recognizing that not every country in a continent would agree, making this a political entity, not a techtonic entity
+1. **Intercontinental-governing body** - an entity made up of multiple continents, possibly almost planet-wide
+1. **Aster-governing body** - an entity made up of multiple planets within a star-system. This is a political entity, and not guaranteed to be a single entity for the
 entire star-system
 
 # Enumerated Rights
