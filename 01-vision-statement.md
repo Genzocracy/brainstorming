@@ -34,7 +34,28 @@ may occupy and manage the affairs for that area
 1. **Aster-governing body** - an entity made up of multiple planets within a star-system. This is a political entity, and not guaranteed to be a single entity for the
 entire star-system
 
+Governing bodies may recognize entities that aren't recognized by other entities, such as a lake or river.
+
 # Enumerated Rights
 The guiding principle to focus on rich experience should lead us all to strive to provide to any constituent, and extend the ideas beyond our borders such that:
 
-1. There is a right to express ourself in a manner which conforms to our beliefs, such that there can be no 
+public services and legal matters of the nation take a position of agnosticism in regards to religious beliefs   
+
+1. There is a right to defend life and to protect it against harm
+   1. 
+
+1. There is a right to express ourself in a manner which conforms to our beliefs
+   1. such that there can be no law which effectively:
+      1. coerces another into their religion or to denounce their religion
+      1. mandates performing any (religious or non-religious) ritual or bans a ritual, unless exercising the ritual can lead to harm or undue burden of another
+      1. punishes any entity for their opinion regarding the nation
+      1. disqualifies any constituent from holding office based on belief
+      1. punishes any entity for speaking out against any other entity based on justifiable information and opinion
+   1. several enumerated exceptions to expression include, but aren't limited to:
+      1. disclosing classified secrets that protect the nation or the operating of the nation
+      1. disclosing secrets of entities intending or leading to physical harm, property harm, or theft
+      1. lies, opinion, or (within reason) unvetted information which
+         1. can lead to harm by instigating a false-emergency ("fire" in the theater)
+         1. can lead to harm by encouraging impulses of violence and stochastic terrorism from others ("hate speech")
+         1. can lead to impulses of defense by the listener ("threats")
+         1. can lead to legal or professional harm (libel, slander, and defamation)
