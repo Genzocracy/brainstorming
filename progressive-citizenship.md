@@ -32,5 +32,32 @@ Any child fostered, or given to guardianship by anyone with at least a 50% citiz
 
 # Attainment
 The following factors adds points to citizenship status:
-* Each year of education passed confers an additional 5% citizenship status
-* Each year of service in the armed forces confers an additional 20% citizenship status
+* Each semester-hour of accredited education passed confers an additional 0.2% to citizenship status (12 such hours per year give an 2.4% increase)
+  * This is for any national accredited education, University or certification program, College and Kindergarten
+  * There is a requirement that the education occur in the nation, a territory, a base, or a 
+  * Since Kindergarten and primary schools do not necessarily start with separated programs, each semester is considered as a 12 hour program
+  * Any system that uses less than a semester-hour system can prorate, such as a 0.1% increase for systems that work in quarters with the same hours
+  * This would mean that certification programs, which may be a single 45 hour week, can confer 0.6% to citizenship
+* Each active semester-hour serving as a teacher confers an additional 0.2% citizenship status
+* Each hour of active service in the armed forces confers an additional 0.03% to citizenship status (more than 50% per full year)
+* Each hour in reserve service, or in the National Guard, confers an additional 0.015% to citizenship status (more than 25% per full year)
+* Each active hour serving in the Peace Corps confers and additional 0.015%
+* Each active hour that is paid, serving in the medical field (doctor, surgeon, nurse, medical coder, etc.), confers an additional 0.005%
+* Each active hour that is voluntary, serving in the medical field, confers an additional 0.01%
+* Each active hour that is paid, serving in emergency services (fire, police, EMT, etc.), confers an additional 0.005%
+* Each active hour that is voluntary, serving in the emergency services (volunteer fire, etc.) confers an additional 0.01%
+* Others: rebuilding houses (not tourism system), 
+* Any essential worker during a crisis
+  * Any worker listed above is also an essential worker (such as care and emergency)
+  * This then includes (needs a definition for infrastructure)
+    * energy, water, wastewater, communications, IT
+    * agriculture and food production
+    * critical retail (grocery, hardware, mechanics)
+    * critical trade, such as repair (electrician, construction, plumber, etc.)
+    * transportation
+    * logistics
+    * government operations
+
+
+## Serious Question in Regards to Education
+Does the advent of extremely smart AI change the paradigm around education?
