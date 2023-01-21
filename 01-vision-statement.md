@@ -13,7 +13,7 @@ to more faithfully distribute outcome in response to effort given.
 
 Our nation can exist without a symbol. Our nation can exist without a flag. Our nation can exist without a pledge. But, our nation cannot exist without those we stand with.
 
-This should be written as a poem or song, to be recited
+This should be written as a poem or song, to be recited but never in demand
 
 ## Definitions in Guiding Principals
 
