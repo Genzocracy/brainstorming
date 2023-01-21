@@ -65,4 +65,13 @@ Not yet described herein is both a taxation-and-distribution system with a few f
           * etc.          
       * etc.
 
-
+# Other Taxes
+The following forms of taxation are put into consideration here:
+* Transaction
+  * Transaction Privilege Tax
+    * A Value-Added Tax (VAT)
+    * Paid by seller, not purchaser
+    * It is mandatory for a seller to first present the total cost including tax and fees; however, they may optionally display breakdown
+    * Some consumables, such as gasoline or food is taxed to level-off market shocks, reduced at higher prices, and increased at lower prices
+  * Transaction fee
+    * In
