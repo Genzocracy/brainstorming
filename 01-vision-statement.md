@@ -15,6 +15,7 @@ Our nation can exist without a symbol. Our nation can exist without a flag. Our 
 
 This should be written as a poem or song, to be recited but never in demand
 
+
 ## Definitions in Guiding Principals
 
 **Responsibility** - Responsibility is simply our ability to respond.
@@ -24,10 +25,10 @@ things and people are always moving to *better*, but also doesn't foster the ide
 
 # Governing Bodies
 The nation recognizes governance from the inside-outward, such that as each level increases, it is to a baseline. The foremost level is that of the self:
-1. **Self-governance** - wherein the responsibility to self-govern does not require a caregiver; nor where it causes concession of the self-governance of another, or of the
+1. **Self-governance** - (approx 1) wherein the responsibility to self-govern does not require a caregiver; nor where it causes concession of the self-governance of another, or of the
 collective
-1. **Family governing body** - wherein a family is devoted to proxy-care and investment in various selves; geographically centered on the home
-1. **District-governing body** - geographically centered on a small area that may include a schoolcare district, wherein multiple families an association, or even a tribe
+1. **Family governing body** - (approx 2 to 10) wherein a family is devoted to proxy-care and investment in various selves; geographically centered on the home
+1. **District-governing body** - (approx 100 to 10000) geographically centered on a small area that may include a schoolcare district, wherein multiple families an association, or even a tribe
 may occupy and manage the affairs for that area
 1. **County-governing body** - geographically over multiple districts, wherein the districts can decide wider things like zoning, property taxes, infrastucture, etc.
 1. **Region-governing body** - geographically over multiple counties (often about the size of a typical US state); best continually reevaluated as (economic regions)[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166083]
@@ -40,13 +41,22 @@ entire star-system
 
 Governing bodies may recognize entities that aren't recognized by other entities, such as a lake or river.
 
+
+
 # Enumerated Rights
 The guiding principle to focus on rich experience should lead us all to strive to provide to any constituent, and extend the ideas beyond our borders such that:
 
 public services and legal matters of the nation take a position of agnosticism in regards to religious beliefs   
 
-1. There is a right to defend life and to protect it against harm
-   1. 
+1. There is a right to defend and to protect against harm
+   1. such that there can be no law which effectively
+      1. bans the use of force used to proportionally disable an aggressor when reasonably judged with intent to harm
+      1. 
+      3. includes right to defend oneself-legally
+
+   1. several enumerated exceptions to the right-to-defense include
+      1. disabling an individual more than what was reasonably inferred to be the harm done (i.e. can't kill someone merely for believing they will punch you)
+      2. 
 
 1. There is a right to express ourself in a manner which conforms to our beliefs
    1. such that there can be no law which effectively:
@@ -63,3 +73,4 @@ public services and legal matters of the nation take a position of agnosticism i
          1. can lead to harm by encouraging impulses of violence and stochastic terrorism from others ("hate speech")
          1. can lead to impulses of defense by the listener ("threats")
          1. can lead to legal or professional harm (libel, slander, and defamation)
+         1. can lead to harm by wreckless endangerment without consent, such as by knowingly/purposely spreading a disease (an invasion) to another without their consent
