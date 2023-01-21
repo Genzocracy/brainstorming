@@ -11,6 +11,10 @@ We regard rights as a neverending fight to win, community as a structure requiri
 that the promotion of rich experience prioritizes reducing undue suffering before pleasure, removing disadvantegeous blocks before advantaging others, and overall aims
 to more faithfully distribute outcome in response to effort given.
 
+Our nation can exist without a symbol. Our nation can exist without a flag. Our nation can exist without a pledge. But, our nation cannot exist without those we stand with.
+
+This should be written as a poem or song, to be recited
+
 ## Definitions in Guiding Principals
 
 **Responsibility** - Responsibility is simply our ability to respond.
