@@ -73,5 +73,28 @@ The following forms of taxation are put into consideration here:
     * Paid by seller, not purchaser
     * It is mandatory for a seller to first present the total cost including tax and fees; however, they may optionally display breakdown
     * Some consumables, such as gasoline or food is taxed to level-off market shocks, reduced at higher prices, and increased at lower prices
-  * Transaction fee
-    * In
+  * Transaction fee for verification purposes
+    * small for cash or debit card
+    * larger for transactions that include buyer's insurance (such as credit cards)
+    * also larger for stock transactions, to reduce high-speed trading
+* Income tax
+  * a flat tax based on income
+  * from most employers, they automatically remove the 
+* Wealth tax (for the prevention of "Buy, Borrow, Die")
+  * Required if doing business with the nation, not just a citizenship requirement
+  * Majority of wealth tax goes directly to defense-spending
+  * Includes international assets (any assets found hidden will accrue not just back-taxes, but also a percentage penalty)
+  * Property, such as real-estate and stock holdings, is also considered a portion of wealth tax
+  * Not intended to be extremly punititve
+* Wealth transfer tax (gift and estate)
+  * Applies to gifts, estate transfers, and even donations
+  * Charitable organizations can discount their donation taxes back to zero if they show, at least 80% was spent on services (i.e. less than 20% is administrative and labor)
+  * Treated as a large transaction tax, being a bracketed system for verification purposes, and ensuring that charity is not donating to political causes (dark money)
+  * How to avoid abuses by making many transactions at the minimum value?
+  * Intended that families can give reasonable allowances without any concern
+* Corporate Revenue Taxes
+  * Corporations are taxed on revenues with the following discounts:
+    * Revenue is chosen over profits, due to the tendencies to overreport costs, but there is also a tendency to underreport earnings, and so it must not be bracketed
+    * Labor (money transferred as income to employees is taxed for income)
+    * Returns on sales
+    * Discounts on sales
